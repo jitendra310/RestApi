@@ -1,5 +1,5 @@
 <?php
-die("git test");
+
 use Illuminate\Support\Str;
 
 return [
